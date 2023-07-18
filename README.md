@@ -1,6 +1,6 @@
-# `Museum Finder`
+# `Localizador de Museus`
 
-Boas-vindas ao repositório do projeto `Museum Finder`!
+Boas-vindas ao repositório do projeto `Localizador de Museus`!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir e se tiver **qualquer dúvida**, nos envie no _Slack_ da turma! #vqv 🚀
 
@@ -45,8 +45,8 @@ Neste projeto, verificamos se você é capaz de:
 <summary><strong>🗓 Data de Entrega</strong></summary>
 
 - Este projeto é individual
-- Será `X` dias de projeto.
-- Data para entrega final do projeto:`XX/XX/XXXX - 14:00h`.
+- Será `3` dias de projeto.
+- Data para entrega final do projeto:`28/07/2023 - 14:00h`.
 
 </details>
 
