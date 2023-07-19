@@ -3,7 +3,7 @@ package com.betrybe.museumfinder.dto;
 import com.betrybe.museumfinder.model.Coordinate;
 
 /**
- * MuseumCreationDto class.
+ * MuseumCreationDto.
  */
 public record MuseumCreationDto(
     String name,

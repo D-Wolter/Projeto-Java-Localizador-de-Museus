@@ -3,7 +3,7 @@ package com.betrybe.museumfinder.dto;
 import com.betrybe.museumfinder.model.Coordinate;
 
 /**
- * MuseumDto class.
+ * MuseumDto.
  */
 public record MuseumDto(
     Long id,
