@@ -29,7 +29,7 @@ public class MuseumService implements MuseumServiceInterface {
   @Override
   public Museum createMuseum(Museum museum) {
 
-    if (!CoordinateUtil.isValidCoordinate(museum.getCoordinate())) {
+    if (!CoordinateUtil.isCoordinateValid(museum.getCoordinate())) {
       throw new InvalidCoordinateException("Invalid Coordinated");
     }
 

@@ -45,8 +45,4 @@ public class CoordinateUtil {
 
     return c * 6371;
   }
-
-  public static boolean isValidCoordinate(Coordinate coordinate) {
-    return false;
-  }
 }
