@@ -1,3 +1,4 @@
+
 FROM maven:3-openjdk-17 AS build-image
 # Define o diretório de trabalho para a construção da aplicação
 WORKDIR /to-build-app
